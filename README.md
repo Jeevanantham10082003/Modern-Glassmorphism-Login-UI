@@ -8,6 +8,8 @@ A clean and modern login interface designed using Figma.
 - Minimal navigation layout
 - Responsive web structure concept
 
+![IMG_20260227_083726](https://github.com/user-attachments/assets/14c947b4-add8-4275-aa00-68cad6d7084e)
+
 ## Tools
 - Figma
 
